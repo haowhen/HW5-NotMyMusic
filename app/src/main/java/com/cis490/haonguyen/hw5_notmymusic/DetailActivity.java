@@ -6,7 +6,6 @@ import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
 
-import com.cis490.haonguyen.hw5_notmymusic.R;
 import com.cis490.haonguyen.hw5_notmymusic.fragment.FragmentDetail;
 import com.cis490.haonguyen.hw5_notmymusic.listener.MyTabListener;
 
